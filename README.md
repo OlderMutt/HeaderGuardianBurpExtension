@@ -6,7 +6,6 @@ Header Guardian is a Burp Suite extension designed to analyze HTTP request and r
 
 - **Context Menu Integration**: Send HTTP requests directly to Header Guardian from anywhere within Burp Suite.
 - **Security Header Analysis**: Automatically checks the presence and correctness of critical security headers.
-- **Visual Indicators**: Highlights the Header Guardian tab when new requests are sent for analysis.
 - **Export to TXT**: Allows you to export the analysis results to a text file for easy sharing and documentation.
 - **OWASP Best Practices**: Follows recommendations for HTTP security headers based on the OWASP HTTP Headers Cheat Sheet.
 
