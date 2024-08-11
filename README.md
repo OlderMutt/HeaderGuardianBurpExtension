@@ -23,6 +23,9 @@ Header Guardian is a Burp Suite extension designed to analyze HTTP request and r
     -   Go to the "Extensions" tab and click on the "Add" button.
     -   Select "Java" as the extension type.
     -   Load the `HeaderGuardian.py` file from the cloned repository.
+
+***N.B. it requires Jython***
+
 3.  **Start Using the Extension:**
 
     -   The extension will add a new tab labeled "Header Guardian" in Burp Suite.
